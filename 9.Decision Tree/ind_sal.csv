@@ -1,0 +1,17 @@
+company,job,degree,salary_more_then_100k
+Infosys,sales executive,bachelors,0
+Infosys,sales executive,masters,0
+Infosys,business manager,bachelors,1
+Infosys,business manager,masters,1
+Infosys,computer programmer,bachelors,0
+Infosys,computer programmer,masters,1
+TCS,sales executive,masters,0
+TCS,computer programmer,bachelors,0
+TCS,business manager,bachelors,0
+TCS,business manager,masters,1
+L&T,sales executive,bachelors,1
+L&T,sales executive,masters,1
+L&T,business manager,bachelors,1
+L&T,business manager,masters,1
+L&T,computer programmer,bachelors,1
+L&T,computer programmer,masters,1
